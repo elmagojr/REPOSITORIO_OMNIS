@@ -1,0 +1,7 @@
+W_COOPERATIVIST
+342 - SE A;ADIO NUEVO FORMATO
+R_Solicitud_retiro_super
+
+R_no_aportados
+M_Reportes_Varios
+18
